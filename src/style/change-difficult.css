@@ -1,0 +1,13 @@
+.change-diff__main {
+    display: flex;
+    align-items: center;
+}
+
+.change-diff__main select {
+    width: 40px;
+    height: 30px;
+}
+
+.change-diff__group, .change-diff__level {
+    margin: 0 10px;
+}

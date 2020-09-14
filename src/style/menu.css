@@ -1,0 +1,14 @@
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 75px;
+    background-color: white;
+    border-radius: 0 0 20px 20px;
+    padding: 0 30px;
+}
+
+.menu__elements-wrap {
+    display: flex;
+    flex-direction: row;
+}
